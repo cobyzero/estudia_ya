@@ -1,0 +1,54 @@
+{
+  "project_info": {
+    "project_number": "1025058548533",
+    "project_id": "estudia-ya",
+    "storage_bucket": "estudia-ya.firebasestorage.app"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:1025058548533:android:c1348ae197a9f11ba37a7c",
+        "android_client_info": {
+          "package_name": "com.cobyzero.estudia_ya"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "1025058548533-n2urokj3jg12ci5vrv4mua9qnvu3qp9g.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.cobyzero.estudia_ya",
+            "certificate_hash": "79d922ad2f11af52e3eacffc2a9d6650d1e71a44"
+          }
+        },
+        {
+          "client_id": "1025058548533-5sh2125ik1tuaoq64g8ll8sb165oem1l.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBxcKGk6jOgJ02vddgyhctFh7WKCWGpzNM"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "1025058548533-5sh2125ik1tuaoq64g8ll8sb165oem1l.apps.googleusercontent.com",
+              "client_type": 3
+            },
+            {
+              "client_id": "1025058548533-tfnvhhknpq15semifsg42v1a8qnaaues.apps.googleusercontent.com",
+              "client_type": 2,
+              "ios_info": {
+                "bundle_id": "com.cobyzero.estudiaYa"
+              }
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
